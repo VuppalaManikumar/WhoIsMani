@@ -18,7 +18,7 @@
 # Quick Start
 
 ### git clone https://github.com/VuppalaManikumar/WhoIsMani.git
-### cd WhoIsMoni
+### cd WhoIsMani
 ### pip install -r requirements.txt
 ### python3 whoismoni.py
 
